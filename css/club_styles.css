@@ -57,13 +57,27 @@ aside{
 aside p{
 	float: right;
 }
-h1, p{
+/*general*/
+h1, p, a{
 	color: #fff;
 }
 .advert{
 	width: 100%;
 	height: auto;	
 }
+button{
+	width: 30px;
+	height: 20px;
+	background: none;
+	color: #fff;
+}
+/*table styles*/
+table{
+	width: 100%;
+	height: auto;
+}
+
+/*footer styles*/
 footer{
 	width: 90%;
 	padding: 0 5%;
