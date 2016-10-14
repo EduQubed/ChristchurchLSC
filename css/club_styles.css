@@ -23,6 +23,7 @@ a:hover{
 }
 nav{
 	width: 100%;
+	border-bottom: 2px solid #fff;
 }
 nav ul{
 	width: auto;
