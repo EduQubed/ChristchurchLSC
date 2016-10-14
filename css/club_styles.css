@@ -70,6 +70,8 @@ button{
 	height: 30px;
 	background: none;
 	color: #fff;
+	font-size: 1em;
+	line-height: 30px;
 }
 /*table styles*/
 table{
