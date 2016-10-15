@@ -58,30 +58,43 @@ aside p{
 	float: right;
 }
 /*general*/
-h1, p, a{
+p, a, li{
+	font-size: 1.1em;
 	color: #fff;
+	line-height: 30px;    
+	/*text-transform: uppercase;*/
+}
+h1{
+	font-size: 2em;
+	color: #fff;
+}
+main li{
+	margin-left: 30px;
+	font-size: 1.5em;
+	line-height: 40px;	
 }
 .advert{
 	width: 100%;
 	height: auto;	
 }
-button{
-	width: 65px;
-	height: 30px;
-	background: none;
-	color: #fff;
-	font-size: 1em;
-	line-height: 30px;
-}
+
 /*table styles*/
 table{
 	width: 100%;
 	height: auto;
+	margin: 50px 0;
+	color: #fff;
 }
 table img{
 	width: 120px;
 	height: 120px;
 }
+table th{
+	text-align: left;
+	text-decoration: underline;
+}
+
+
 /*footer styles*/
 footer{
 	width: 90%;
@@ -94,4 +107,5 @@ footer span,footer span a{
 	padding: 0 10px 0 0;
 	line-height: 50px;
 	text-decoration: none;
-	color: #fff;}
+	color: #fff;
+}
