@@ -93,7 +93,28 @@ table th{
 	text-align: left;
 	text-decoration: underline;
 }
-
+/*form styles*/
+form{
+	width: 100%;
+	height: auto;
+	border: none;
+}
+form label,form input{
+	width: 100%;
+	height: 40px;
+	border: none;
+	font-size: 1.1em;
+	margin: 10px 0;
+}
+form label{
+	color: #fff;
+}
+.submit_button{
+	width: 75px;
+	height: 40px;
+	float: right;
+	margin: 20px 0;
+}
 
 /*footer styles*/
 footer{
