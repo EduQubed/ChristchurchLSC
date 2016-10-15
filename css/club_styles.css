@@ -115,7 +115,9 @@ form label{
 	float: right;
 	margin: 20px 0;
 }
-
+fieldset{
+	border: none;	
+}
 /*footer styles*/
 footer{
 	width: 90%;
