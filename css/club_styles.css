@@ -58,7 +58,7 @@ aside p{
 	float: right;
 }
 /*general*/
-p, a, li{
+p, a, li, summary{
 	font-size: 1.1em;
 	color: #fff;
 	line-height: 30px;    
@@ -76,6 +76,12 @@ main li{
 .advert{
 	width: 100%;
 	height: auto;	
+}
+summary{
+	font-size: 1.4em;	
+}
+article{
+	border-bottom: 2px ridge #fff;	
 }
 
 /*table styles*/
