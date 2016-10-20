@@ -58,13 +58,13 @@ aside p{
 	float: right;
 }
 /*general*/
-p, a, li, summary{
+p, a, li, summary, h3{
 	font-size: 1.1em;
 	color: #fff;
 	line-height: 30px;    
 	/*text-transform: uppercase;*/
 }
-h1{
+h1, h2{
 	font-size: 2em;
 	color: #fff;
 }
